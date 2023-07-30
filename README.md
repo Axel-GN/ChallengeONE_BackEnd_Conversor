@@ -27,13 +27,25 @@ El conversor de temperatura permite convertir una cantidad entre diferentes esca
 
 Al ejecutar la aplicación, se mostrará un menú principal con tres opciones: "Divisas", "Temperatura" y "Salir", la cual detiene la ejecución del programa. El usuario puede seleccionar una de las opciones haciendo click sobre ellas.
 
+<p align="center">
+  <img src=img/img_1.png alt="Menú principal">
+</p>
+
 ### Conversor de Monedas
 
 Dentro del conversor de monedas, el usuario puede elegir entre convertir una cantidad desde pesos mexicanos a otras divisas o desde otras divisas a pesos mexicanos. Se le pedirá ingresar la cantidad y la divisa correspondiente, y se mostrará el resultado de la conversión.
 
+<p align="center">
+  <img src=img/img_2.png alt="Menú conversor monedas">
+</p>
+
 ### Conversor de Temperatura
 
-Dentro del conversor de temperatura, el usuario debe ingresar la cantidad y seleccionar la escala de temperatura de partida y destino. La aplicación realizará la conversión y mostrará el resultado.
+Dentro del conversor de temperatura, el usuario debe ingresar la temperatura y seleccionar la escala inicial, posterior a ello elegir a que escala se convertira. La aplicación realizará la conversión y mostrará el resultado.
+
+<p align="center">
+  <img src=img/img_3.png alt="Menú conversor temeperatura">
+</p>
 
 ## Requisitos del Sistema
 
@@ -42,7 +54,7 @@ Dentro del conversor de temperatura, el usuario debe ingresar la cantidad y sele
 
 ## Ejecución
 
-Para ejecutar la aplicación, simplemente compile y ejecute el archivo "ConversorMain.java". La interfaz gráfica se abrirá automáticamente y podrá comenzar a utilizar el conversor de monedas y temperatura. El programa le permitira hacer todas las conversiones que deseé hasta que presione la opción "Salir". 
+Para ejecutar la aplicación, simplemente compile y ejecute el archivo "ConversorMain.java". La interfaz gráfica se abrirá automáticamente y podrá comenzar a utilizar el conversor de monedas y temperatura. El programa le permitira hacer todas las conversiones que deseé y finalizara hasta que se presione la opción de "Salir" o se detenga la ejecución directamente en el editor. 
 
 ## Notas
 
