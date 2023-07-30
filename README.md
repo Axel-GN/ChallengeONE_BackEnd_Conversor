@@ -4,7 +4,7 @@ Este es un proyecto de una aplicación de consola que permite realizar conversio
 
 ## Conversor de Monedas
 
-El conversor de monedas permite convertir una cantidad de dinero entre diferentes divisas.Siendo el peso mexicano la base de las converiones, es decir, el usuario puede elegir entre convertir una cantidad desde pesos mexicanos a otras divisas o desde otras divisas a pesos mexicanos.
+El conversor de monedas permite convertir una cantidad de dinero entre diferentes divisas. Siendo el peso mexicano la base de las converiones, es decir, el usuario puede elegir entre convertir una cantidad desde pesos mexicanos a otras divisas o desde otras divisas a pesos mexicanos.
 
 ### Características
 
@@ -54,7 +54,7 @@ Dentro del conversor de temperatura, el usuario debe ingresar la temperatura y s
 
 ## Ejecución
 
-Para ejecutar la aplicación, simplemente compile y ejecute el archivo "ConversorMain.java". La interfaz gráfica se abrirá automáticamente y podrá comenzar a utilizar el conversor de monedas y temperatura. El programa le permitira hacer todas las conversiones que deseé y finalizara hasta que se presione la opción de "Salir" o se detenga la ejecución directamente en el editor. 
+Para ejecutar la aplicación, simplemente compile y ejecute el archivo "ConversorMain.java", contenido en la carpeta src. La interfaz gráfica se abrirá automáticamente y podrá comenzar a utilizar el conversor de monedas y temperatura. El programa le permitira hacer todas las conversiones que deseé y finalizara hasta que se presione la opción de "Salir" o se detenga la ejecución directamente en el editor. 
 
 ## Notas
 
